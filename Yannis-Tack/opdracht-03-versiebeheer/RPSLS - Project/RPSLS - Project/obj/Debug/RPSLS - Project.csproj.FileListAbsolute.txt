@@ -1,0 +1,13 @@
+C:\Users\Robin'\Documents\School\3de Jaar\Software Engineering\Project-SE\RPSLS - Project\RPSLS - Project\bin\Debug\RPSLS - Project.exe.config
+C:\Users\Yannis\Documents\Software Engineering\Project RPSLS\Project-SE\RPSLS - Project\RPSLS - Project\bin\Debug\RPSLS - Project.exe.config
+C:\Users\Yannis\Documents\Software Engineering\Project RPSLS\Project-SE\RPSLS - Project\RPSLS - Project\bin\Debug\RPSLS - Project.exe
+C:\Users\Yannis\Documents\Software Engineering\Project RPSLS\Project-SE\RPSLS - Project\RPSLS - Project\bin\Debug\RPSLS - Project.pdb
+C:\Users\Yannis\Documents\Software Engineering\Project RPSLS\Project-SE\RPSLS - Project\RPSLS - Project\obj\Debug\RPSLS - Project.csprojResolveAssemblyReference.cache
+C:\Users\Yannis\Documents\Software Engineering\Project RPSLS\Project-SE\RPSLS - Project\RPSLS - Project\obj\Debug\RPSLS___Project.GameView.resources
+C:\Users\Yannis\Documents\Software Engineering\Project RPSLS\Project-SE\RPSLS - Project\RPSLS - Project\obj\Debug\RPSLS___Project.HandView.resources
+C:\Users\Yannis\Documents\Software Engineering\Project RPSLS\Project-SE\RPSLS - Project\RPSLS - Project\obj\Debug\RPSLS___Project.Properties.Resources.resources
+C:\Users\Yannis\Documents\Software Engineering\Project RPSLS\Project-SE\RPSLS - Project\RPSLS - Project\obj\Debug\RPSLS - Project.csproj.GenerateResource.Cache
+C:\Users\Yannis\Documents\Software Engineering\Project RPSLS\Project-SE\RPSLS - Project\RPSLS - Project\obj\Debug\RPSLS - Project.exe
+C:\Users\Yannis\Documents\Software Engineering\Project RPSLS\Project-SE\RPSLS - Project\RPSLS - Project\obj\Debug\RPSLS - Project.pdb
+C:\Users\Yannis\Documents\Software Engineering\Project RPSLS\Project-SE\RPSLS - Project\RPSLS - Project\obj\Debug\RPSLS___Project.RPSLSView.resources
+C:\Users\Yannis\Documents\Software Engineering\Project RPSLS\Project-SE\RPSLS - Project\RPSLS - Project\obj\Debug\RPSLS___Project.ScoreBoardView.resources

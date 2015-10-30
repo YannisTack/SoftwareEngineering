@@ -1,0 +1,12 @@
+c:\users\yannis\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+c:\users\yannis\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+c:\users\yannis\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+c:\users\yannis\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+c:\users\yannis\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.DiceView.resources
+c:\users\yannis\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+c:\users\yannis\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+c:\users\yannis\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+c:\users\yannis\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+c:\users\yannis\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.GameView.resources
+c:\users\yannis\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.ScoreboardView.resources
+c:\users\yannis\documents\visual studio 2015\Projects\Yahtzee\Yahtzee\obj\Debug\Yahtzee.YahtzeeView.resources
